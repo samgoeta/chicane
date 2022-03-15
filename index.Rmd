@@ -216,6 +216,13 @@ class:inverse
 <iframe width="800" height="500" src="https://www.youtube.com/embed/euqCkQJelB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+class:inverse
+
+### Le fonctionnement de l'algorithme de Twitter
+
+.center.reduite[![](img/tw.PNG)]
+
+---
 class:inverse, middle, center
 
 ## Les règles de la cartographie de controverse
@@ -285,5 +292,22 @@ Venturini et Munk proposent une grille d'analyse en 4 critères :
 * **Secret** (dans des arènes hors de notre portée) vs **accessible** (à notre portée, disponible) : privilégier les controverses acccessibles mais ne pas négliger les sources hors-ligne (presse écrite, presse spécialisée, TV, radio…), l'observation de terrain et les entretiens.
 
 ---
+
+class:inverse, middle, center
+
+.reduite[]
+# Présentation de Chicane
+## Le petit observatoire des controverses
+
+.footnote[
+## [chicane-lemag.fr](https://chicane-lemag.fr/)]
+
+---
+class:inverse, middle, center
+
+## Travail sur la controverse sur Parcoursup
+
+---
+
 class:inverse, middle, center
 # Merci !
